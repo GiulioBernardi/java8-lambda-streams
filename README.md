@@ -1,3 +1,8 @@
+# Minhas resoluções
+https://github.com/GiulioBernardi/java8-lambda-streams/pull/1/files
+
+
+
 # Curso Lambda, Streams e Optional do Java 8 (Completo)
 
 Códigos feitos para o curso/playlist de Multithreading com Java, no canal RinaldoDev do YouTube.
